@@ -3,3 +3,4 @@ hello git master test 2
 hello git hot-fix second text
 11
 22 by lhc
+如果直接打开xuanloveqing就push并不是xuanloveqingpush的话，zaixuanloveqing的github里看不见这句话。
