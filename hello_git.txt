@@ -4,3 +4,5 @@ hello git hot-fix second text
 11
 22 by lhc
 如果直接打开xuanloveqing就push并不是xuanloveqingpush的话，zaixuanloveqing的github里看不见这句话。
+其实也看的见，因为登陆的是同一个远程库^_^
+现在我用ssh免密协议推送push
